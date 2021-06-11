@@ -1,4 +1,4 @@
-### Hi there 👋
+### Well hello there...
 
 <!--
 **bronze/bronze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👨🏼‍💻 [digitalcanvas.com.br][playground]  
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+👔 [linkedin][linkedin]
+
+[playground]: https://www.digitalcanvas.com.br
+[website]: https://www.carlosbronze.com.br
+[twitter]: https://twitter.com/carlosbronze
+[linkedin]: https://linkedin.com/in/carlosbronze
