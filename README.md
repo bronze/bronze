@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👨🏼‍[digitalcanvas.com.br][playground]  
+[digitalcanvas.com.br][playground]  
 [website][website] **|** 
 [twitter][twitter] **|** 
 [linkedin][linkedin]
