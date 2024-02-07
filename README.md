@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 
 [digitalcanvas.com.br][playground]  
 [website][website] **|** 
-[twitter][twitter] **|** 
 [linkedin][linkedin]
 
 [playground]: https://www.digitalcanvas.com.br
 [website]: https://www.carlosbronze.com.br
-[twitter]: https://twitter.com/carlosbronze
 [linkedin]: https://linkedin.com/in/carlosbronze
