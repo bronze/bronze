@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[digitalcanvas.com.br][playground]  
-[website][website] **|** 
+[carlosbronze.com.br][carlosbronze-com.br]  
 [linkedin][linkedin]
 
-[playground]: https://www.digitalcanvas.com.br
-[website]: https://www.carlosbronze.com.br
+[carlosbronze-com.br]: https://www.carlosbronze.com.br
 [linkedin]: https://linkedin.com/in/carlosbronze
