@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 
 # Hello, I'm Carlos Bronze
 
-Senior Product Manager focused on strategy, gamification and product analytics. Based in Rio de Janeiro.
+Senior Product Manager focused on product strategy, gamification and metrics that move the business. Based in Rio de Janeiro.
 
-I turn ambiguity into decisions a team can act on.  
+I turn ambiguity into decisions a team can act on.
 Designer by formation, strategist by trade, with enough technical depth to know what is actually feasible.
 
 ## Get in touch
 
-Always up for conversations about product analytics, growth loops, gamification, storytelling, or how to structure product teams. 
-[LinkedIn](https://linkedin.com/in/carlosbronze) | [carlosbronze.com.br](https://carlosbronze.com.br)
+Always up for conversations about product strategy, growth loops, gamification, storytelling, or turning metrics into decisions.
+
+[LinkedIn](https://www.linkedin.com/in/carlosbronze/) · [carlosbronze.com.br](https://www.carlosbronze.com.br)
