@@ -25,12 +25,12 @@ Designer by formation, strategist by trade, with enough technical depth to know 
 Projects that started with an itch, a question, or an idea I couldn't shake.
 
 - **[carlosbronze.com](https://www.carlosbronze.com)** · bilingual personal site built with Astro, Tailwind and Vercel ([repo](https://github.com/bronze/carlosbronze-com-br)).
-- **[Papo na Arena Radar](https://www.carlosbronze.com/tinkering/papo-na-arena-radar)** · every "product of the week" mentioned on the Papo na Arena podcast, organized into rankings, episodes, categories and who recommended what. Built with Replit ([repo](https://github.com/bronze/paponaarena-produtosdasemana-replit)).
+- **[Papo na Arena Radar](https://paponaarena-produtosdasemana.replit.app/)** · every "product of the week" mentioned on the Papo na Arena podcast, organized into rankings, episodes, categories and who recommended what. Built with Replit ([repo](https://github.com/bronze/paponaarena-produtosdasemana-replit)).
 - **[Rory Sutherland Talks Archive](https://rory-talks.vercel.app)** · curated archive of Rory Sutherland's talks with full transcripts, built so Claude can extract insights across the whole body of work ([repo](https://github.com/bronze/rory-talks)).
-- **[Critical Role Homepage](https://www.carlosbronze.com/tinkering/critical-role)** · finding what's airing this week was confusing, so I reworked the information architecture to put the schedule and campaigns within reach.
-- **[South American Krav Maga Federation](https://www.carlosbronze.com/tinkering/fsakm)** · the federation's site was slow. I redesigned it with Next.js, Nextra and shadcn/ui.
-- **[Thompson Total Branding](https://www.carlosbronze.com/tinkering/thompson-total-branding)** · a classic Thompson planning manual, republished for the web with a focus on typography and navigation.
-- **[Brandon Sanderson](https://www.carlosbronze.com/tinkering/brandon-sanderson)** · the author's site scored 34 on PageSpeed. I thought I could do better, so I redesigned it.
+- **[Critical Role Homepage](https://critical-role-homepage-redesign.vercel.app/)** · finding what's airing this week was confusing, so I reworked the information architecture to put the schedule and campaigns within reach.
+- **[South American Krav Maga Federation](https://fsakm.carlosbronze.com.br/)** · the federation's site was slow. I redesigned it with Next.js, Nextra and shadcn/ui.
+- **[Thompson Total Branding](https://ttb.carlosbronze.com.br/)** · a classic Thompson planning manual, republished for the web with a focus on typography and navigation.
+- **[Brandon Sanderson](https://brandonsanderson-redesign.carlosbronze.com.br/)** · the author's site scored 34 on PageSpeed. I thought I could do better, so I redesigned it.
 
 Quick ones: [Krav Maga gym map](https://mapa-krav-maga.vercel.app/mapa.html) · [Tera Workshop](https://tera-workshop-dados.carlosbronze.com.br/)
 
