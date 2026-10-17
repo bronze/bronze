@@ -17,7 +17,7 @@ Projects that started with an itch, a question, or an idea I couldn't shake.
 - **[Thompson Total Branding](https://ttb.carlosbronze.com/)** · a classic Thompson planning manual, republished for the web with a focus on typography and navigation.
 - **[Brandon Sanderson](https://brandonsanderson-redesign.carlosbronze.com/)** · the author's site scored 34 on PageSpeed. I thought I could do better, so I redesigned it.
 
-Quick ones: [Krav Maga gym map](https://mapa-krav-maga.vercel.app/mapa.html) · [Tera Workshop](https://tera-workshop-dados.carlosbronze.com.br/)
+Quick ones: [Krav Maga gym map](https://mapa-kravmaga.carlosbronze.com/) · [Tera Workshop](https://tera-workshop-dados.carlosbronze.com/)
 
 More at [carlosbronze.com/tinkering](https://www.carlosbronze.com/tinkering).
 
