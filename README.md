@@ -1,9 +1,8 @@
 # Hello, I'm Carlos Bronze
 
-Senior Product Manager focused on product strategy, gamification and metrics that move the business. I work fully remote from Rio de Janeiro for a US-based AI edtech startup.
+Product Manager focused on product strategy, gamification, growth, and analytics. I work remotely from Rio de Janeiro for a US-based, AI-powered edtech startup.
 
-I turn ambiguity into decisions a team can act on.
-Designer by formation, strategist by trade, with enough technical depth to know what is actually feasible. These days that means prototyping with AI before writing the spec.
+I turn ambiguity into decisions a team can act on. A designer by training who has been coding since 1999, I prototype with AI before writing the spec, so engineering gets a working reference instead of just a document.
 
 ## Things I've built
 
@@ -23,6 +22,6 @@ More at [carlosbronze.com/tinkering](https://www.carlosbronze.com/tinkering).
 
 ## Get in touch
 
-Always up for conversations about product strategy, gamification, storytelling, or turning metrics into decisions.
+Always up for conversations about product strategy, gamification, and storytelling.
 
 [LinkedIn](https://www.linkedin.com/in/carlosbronze/) · [carlosbronze.com](https://www.carlosbronze.com)
