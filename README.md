@@ -8,8 +8,8 @@ I turn ambiguity into decisions a team can act on. A designer by training who ha
 
 Projects that started with an itch, a question, or an idea I couldn't shake.
 
-- **[carlosbronze.com](https://www.carlosbronze.com)** · bilingual personal site built with Astro, Tailwind and Vercel ([repo](https://github.com/bronze/carlosbronze-com-br)).
-- **[Papo na Arena Radar](https://paponaarena-produtosdasemana.replit.app/)** · every "product of the week" mentioned on the Papo na Arena podcast, organized into rankings, episodes, categories and who recommended what. Built with Replit ([repo](https://github.com/bronze/paponaarena-produtosdasemana-replit)).
+- **[carlosbronze.com](https://www.carlosbronze.com)** · bilingual personal site built with Astro, Tailwind, and Vercel ([repo](https://github.com/bronze/carlosbronze-com-br)).
+- **[Papo na Arena Radar](https://paponaarena-produtosdasemana.replit.app/)** · every "product of the week" mentioned on the Papo na Arena podcast, organized into rankings, episodes, categories, and who recommended what. Built with Replit ([repo](https://github.com/bronze/paponaarena-produtosdasemana-replit)).
 - **[Rory Sutherland Talks Archive](https://rory-talks.carlosbronze.com/)** · curated archive of Rory Sutherland's talks with full transcripts, built so Claude can extract insights across the whole body of work ([repo](https://github.com/bronze/rory-talks)).
 - **[Critical Role](https://criticalrole-redesign.carlosbronze.com/)** · finding what's airing this week was confusing, so I reworked the information architecture to put the schedule and campaigns within reach.
 - **[South American Krav Maga Federation](https://fsakm.carlosbronze.com/)** · the federation's site was slow. I redesigned it with Next.js, Nextra and shadcn/ui.
